@@ -26,12 +26,12 @@ export default function Home() {
            <td>2025/2/25</td>
          </tr>
          <tr>
-           <th>名前</th>
-           <th>日時</th>
-         </tr>
-         <tr>
-           <td>博太陽</td>
+           <td>食堂 想去</td>
            <td>2026/6/3</td>
+          </tr>
+          <tr>
+           <td>明天 睡着</td>
+           <td>2067/6/7</td>
           </tr>
        </table>      
 </main>
