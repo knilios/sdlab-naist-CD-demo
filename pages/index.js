@@ -26,7 +26,7 @@ export default function Home() {
            <td>2025/2/25</td>
          </tr>
          <tr>
-           <td>食堂 想走</td>
+           <td>食堂 想去</td>
            <td>2026/6/3</td>
           </tr>
           <tr>
